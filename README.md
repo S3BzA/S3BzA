@@ -9,6 +9,8 @@ I am proficient in:
 - C++
 - Go
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3BzA&layout=compact&show_icons=true&theme=gruvbox&bg_color=45,080965,24479D)
+
 ## Experience
 ### Platforms
 - Kali Linux
@@ -27,4 +29,3 @@ I am proficient in:
 ## What do I do?
 I am currently learning SOC on tryhackme.com and teaching myself more about the world of cybersec. I am also a 3rd year Computer Scientist at the University of Pretoria.
 
-[![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=S3BzA)](https://github.com/anuraghazra/github-readme-stats)
