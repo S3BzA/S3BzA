@@ -19,6 +19,7 @@ I am proficient in:
 - Windows 10, 11
 
 ### Tools
+- Docker
 - GitHub & GIT
 - Nmap
 - Nikto
