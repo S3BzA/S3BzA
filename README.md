@@ -1,6 +1,8 @@
 # Hello, there...
 <a href="https://app.daily.dev/s3bza"><img src="https://api.daily.dev/devcards/v2/O8Jzr3suJGezNUKqRsR9V.png?type=wide&r=cto" width="652" alt="Sebastian Guimaraens's Dev Card"/></a>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1716475" style='border:none;'></iframe>
+
 ## My name is Sebastian Guimaraens
 I have an affinity for cybersecurity that isn't just about the joy of computing; it's a commitment driven by a strong sense of justice. I find purpose in combating cybercrime, a deep conviction to contribute to a safer digital realm. A keyboard and an internet connection is all I need to make a difference.
 
