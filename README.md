@@ -31,5 +31,5 @@ I am proficient in:
 - Visual Studio Code
 
 ## What do I do?
-I am currently learning SOC on tryhackme.com and teaching myself more about the world of cybersec. I am also a 3rd year Computer Scientist at the University of Pretoria.
+I am currently learning SOC on tryhackme.com and teaching myself more about the world of cybersec. I am currently persuing by BScHons in Computer Science.
 
