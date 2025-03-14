@@ -1,5 +1,4 @@
 # Hello, there...
-<a href="https://app.daily.dev/s3bza"><img src="https://api.daily.dev/devcards/v2/O8Jzr3suJGezNUKqRsR9V.png?type=wide&r=cto" width="652" alt="Sebastian Guimaraens's Dev Card"/></a>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/s3bza.png" alt="Your Image Badge" />
 
