@@ -3,7 +3,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/s3bza.png" alt="Your Image Badge" />
 
 ## My name is Sebastian Guimaraens
-I have an affinity for cybersecurity that isn't just about the joy of computing; it's a commitment driven by a strong sense of justice. I find purpose in combating cybercrime, a deep conviction to contribute to a safer digital realm. A keyboard and an internet connection is all I need to make a difference.
+I find purpose in combating cybercrime, a conviction to contribute to a safer digital world.
 
 ## Skills
 I am proficient in:
@@ -31,5 +31,5 @@ I am proficient in:
 - Visual Studio Code
 
 ## What do I do?
-I am currently learning SOC on tryhackme.com and teaching myself more about the world of cybersec. I am currently persuing by BScHons in Computer Science.
+I am currently persuing by BScHons in Computer Science.
 
