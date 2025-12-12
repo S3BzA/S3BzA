@@ -12,8 +12,6 @@ I am proficient in:
 - C++
 - Go
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3BzA&layout=compact&show_icons=true&theme=gruvbox&bg_color=45,080965,24479D)
-
 ## Experience
 ### Platforms
 - Kali Linux
