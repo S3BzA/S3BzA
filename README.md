@@ -14,10 +14,8 @@ I am proficient in:
 
 ## Experience
 ### Platforms
-- Kali Linux
-- Ubuntu
-- Ubuntu Server Edition
-- Windows 10, 11
+- Debian, Ubuntu (and Server Edition), Kali
+- Windows 7, 10, 11
 
 ### Tools
 - Docker
